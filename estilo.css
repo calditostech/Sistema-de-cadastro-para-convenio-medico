@@ -1,0 +1,91 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+body{
+	background-image: url("familia2.jpg");
+	background-size: cover;
+}
+header{
+	background-color: #98FB98;
+	color:#006400;
+	font-size: 80px;
+	margin-top: auto;
+	width: 1350px;
+	height: 80px;
+	text-align: left;
+	border:solid 8px #006400;
+}
+.container{
+	 margin:auto;
+     width:90%;
+     height: auto;
+     display: flex;
+     justify-content: space-between;
+     flex-wrap: wrap;
+}
+.campo{
+	border:solid 3px #006400;
+	width: 300px;
+	height: 25px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #32CD32;
+
+
+}
+button{
+	background-color: #006400;
+	color:white;
+	width: 80px;
+	height: 30px;
+}
+h3{
+	color:#006400;
+	background-color: white;
+}
+h5{
+	font-family: Arial;
+	font-size: 30px;
+	color:#006400;
+	margin-left:200px;
+}
+.login{
+	margin-left: 5px;
+	border:solid 6px #006400;
+	color:#006400;
+	width: 400px;
+	height:250px;
+	background-color: #98FB98;
+	margin-top: 50px;
+	float:left;
+
+}
+.cadastro{
+	margin-left: 5px;
+	border:solid 6px #006400;
+	color:#006400;
+	width: 450px;
+	height:300px;
+	background-color: #98FB98;
+	margin-top: 50px;
+	float:left;
+
+}
+article{
+	width:200px;
+	box-sizing:border-box;
+	padding: 10px;
+	background-color:  #98FB98;
+	margin-bottom: 5px;
+}
+h4{
+	color:#006400;
+	background-color: #98FB98;
+	width:60px;
+
+}
+a{
+background-color: #98FB98;
+color:#006400;	
+}
